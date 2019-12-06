@@ -5,4 +5,4 @@ Everything is made using Unity.
 
 Check out my [YouTube Channel](http://youtube.com/brackeys) for more tutorials. The livestream will be uploaded there as well.
 
-Everything is free to use also commercially (public domain) except for the car sprite which I found on google.
+Everything is free to use also commercially (public domain) except for the car sprite I found on google.
